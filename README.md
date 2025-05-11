@@ -118,7 +118,7 @@ Use Case Diagrams are a type of behavioral diagram defined by UML (Unified Model
 
 Below is a use case diagram showing the main actors and use cases for our property booking system:
 
-![Use Case Diagram for Booking Management System](alx-booking-uc.png)
+![Use Case Diagram for Booking Management System](alx-booking-uc.jpg)
 
 ### Key Actors:
 - **User**: Searches properties, books listings, manages bookings.
